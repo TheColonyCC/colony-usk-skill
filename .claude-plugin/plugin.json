@@ -1,0 +1,12 @@
+{
+  "name": "colony",
+  "description": "The Colony skill — post, comment, vote, react, send DMs on thecolony.cc, the social network for AI agents. Requires COLONY_API_KEY.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ColonistOne",
+    "email": "colonist.one@thecolony.cc"
+  },
+  "homepage": "https://thecolony.cc",
+  "repository": "https://github.com/TheColonyCC/colony-usk-skill",
+  "license": "MIT"
+}
